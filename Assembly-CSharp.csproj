@@ -61,6 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\heartscript.cs" />
+    <Compile Include="Assets\MeshEditor\Scripts\GameObjectDeformer.cs" />
+    <Compile Include="Assets\MeshEditor\Scripts\GameObjectDeformerEditor.cs" />
+    <Compile Include="Assets\MeshEditor\Scripts\GizmoScript.cs" />
+    <None Include="Assets\MeshEditor\LowPolyWeapon\Sprite Source.txt" />
+    <None Include="Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseDoublesided.shader" />
+    <None Include="Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseBack.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>E:/Windows/FCUP/CG/Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

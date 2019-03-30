@@ -1,0 +1,1922 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-03-30T19:51:44.047+00:00
+  initializedAtString: 2019-03-30T19:40:38.145+00:00
+  entries:
+  - path: Assembly-CSharp.csproj
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Default.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Default.asset
+    projectPath: Assets\Default.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Default.asset.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Default.asset.meta
+    projectPath: Assets\Default.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Human Heart.obj
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Human Heart.obj
+    projectPath: Assets\Human Heart.obj
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Human Heart.obj.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Human Heart.obj.meta
+    projectPath: Assets\Human Heart.obj.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\(null)Mat.mat
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Materials\(null)Mat.mat
+    projectPath: Assets\Materials\(null)Mat.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\(null)Mat.mat.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Materials\(null)Mat.mat.meta
+    projectPath: Assets\Materials\(null)Mat.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Heart 6.mat
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Materials\Heart 6.mat
+    projectPath: Assets\Materials\Heart 6.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Heart 6.mat.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Materials\Heart 6.mat.meta
+    projectPath: Assets\Materials\Heart 6.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor.meta
+    projectPath: Assets\MeshEditor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Default.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Default.asset
+    projectPath: Assets\MeshEditor\Default.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Default.asset.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Default.asset.meta
+    projectPath: Assets\MeshEditor\Default.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Example Scenes.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Example Scenes.meta
+    projectPath: Assets\MeshEditor\Example Scenes.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Example Scenes\Cubes.unity
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Example Scenes\Cubes.unity
+    projectPath: Assets\MeshEditor\Example Scenes\Cubes.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Example Scenes\Cubes.unity.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Example Scenes\Cubes.unity.meta
+    projectPath: Assets\MeshEditor\Example Scenes\Cubes.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Materials.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Materials.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Materials.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Materials\axe.mat
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Materials\axe.mat
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Materials\axe.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Materials\axe.mat.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Materials\axe.mat.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Materials\axe.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\axe.FBX
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\axe.FBX
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\axe.FBX
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\axe.FBX.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\axe.FBX.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\axe.FBX.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\Materials.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\Materials.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\Materials.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace.mat
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace.mat
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace.mat.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace.mat.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace2.mat
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace2.mat
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace2.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace2.mat.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace2.mat.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\Materials\mace2.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\Materials\shield.mat
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\Materials\shield.mat
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\Materials\shield.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\Materials\shield.mat.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\Materials\shield.mat.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\Materials\shield.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\Materials\shieldBig.mat
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\Materials\shieldBig.mat
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\Materials\shieldBig.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Models\Materials\shieldBig.mat.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Models\Materials\shieldBig.mat.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Models\Materials\shieldBig.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Prefabs.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Prefabs.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Prefabs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Prefabs\axe.prefab
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Prefabs\axe.prefab
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Prefabs\axe.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Prefabs\axe.prefab.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Prefabs\axe.prefab.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Prefabs\axe.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Shaders.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Shaders.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Shaders.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseBack.shader
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseBack.shader
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseBack.shader
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseBack.shader.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseBack.shader.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseBack.shader.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseDoublesided.shader
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseDoublesided.shader
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseDoublesided.shader
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseDoublesided.shader.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseDoublesided.shader.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Shaders\AlphaTest-DiffuseDoublesided.shader.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Sprite Source.txt
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Sprite
+      Source.txt
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Sprite Source.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Sprite Source.txt.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Sprite
+      Source.txt.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Sprite Source.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Textures.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Textures.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Textures.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Textures\axe.tga
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Textures\axe.tga
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Textures\axe.tga
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\LowPolyWeapon\Textures\axe.tga.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\LowPolyWeapon\Textures\axe.tga.meta
+    projectPath: Assets\MeshEditor\LowPolyWeapon\Textures\axe.tga.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes.meta
+    projectPath: Assets\MeshEditor\Meshes.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Axe2.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Axe2.asset
+    projectPath: Assets\MeshEditor\Meshes\Axe2.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Axe2.asset.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Axe2.asset.meta
+    projectPath: Assets\MeshEditor\Meshes\Axe2.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Axe3.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Axe3.asset
+    projectPath: Assets\MeshEditor\Meshes\Axe3.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Axe3.asset.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Axe3.asset.meta
+    projectPath: Assets\MeshEditor\Meshes\Axe3.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Axe4.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Axe4.asset
+    projectPath: Assets\MeshEditor\Meshes\Axe4.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Axe4.asset.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Axe4.asset.meta
+    projectPath: Assets\MeshEditor\Meshes\Axe4.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Cube1.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Cube1.asset
+    projectPath: Assets\MeshEditor\Meshes\Cube1.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Cube1.asset.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Cube1.asset.meta
+    projectPath: Assets\MeshEditor\Meshes\Cube1.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Cube2.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Cube2.asset
+    projectPath: Assets\MeshEditor\Meshes\Cube2.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Cube2.asset.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Cube2.asset.meta
+    projectPath: Assets\MeshEditor\Meshes\Cube2.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Cube3.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Cube3.asset
+    projectPath: Assets\MeshEditor\Meshes\Cube3.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Cube3.asset.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Cube3.asset.meta
+    projectPath: Assets\MeshEditor\Meshes\Cube3.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Cube4.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Cube4.asset
+    projectPath: Assets\MeshEditor\Meshes\Cube4.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Meshes\Cube4.asset.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Meshes\Cube4.asset.meta
+    projectPath: Assets\MeshEditor\Meshes\Cube4.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\README.pdf
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\README.pdf
+    projectPath: Assets\MeshEditor\README.pdf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\README.pdf.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\README.pdf.meta
+    projectPath: Assets\MeshEditor\README.pdf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Scripts.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Scripts.meta
+    projectPath: Assets\MeshEditor\Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Scripts\GameObjectDeformer.cs
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Scripts\GameObjectDeformer.cs
+    projectPath: Assets\MeshEditor\Scripts\GameObjectDeformer.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Scripts\GameObjectDeformer.cs.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Scripts\GameObjectDeformer.cs.meta
+    projectPath: Assets\MeshEditor\Scripts\GameObjectDeformer.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Scripts\GameObjectDeformerEditor.cs
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Scripts\GameObjectDeformerEditor.cs
+    projectPath: Assets\MeshEditor\Scripts\GameObjectDeformerEditor.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Scripts\GameObjectDeformerEditor.cs.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Scripts\GameObjectDeformerEditor.cs.meta
+    projectPath: Assets\MeshEditor\Scripts\GameObjectDeformerEditor.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Scripts\GizmoScript.cs
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Scripts\GizmoScript.cs
+    projectPath: Assets\MeshEditor\Scripts\GizmoScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\MeshEditor\Scripts\GizmoScript.cs.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\MeshEditor\Scripts\GizmoScript.cs.meta
+    projectPath: Assets\MeshEditor\Scripts\GizmoScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: E:\Windows\FCUP\CG\Final Project\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\10\10b7c4a87c833ed45a1f75c4ddd9d678
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\10\10b7c4a87c833ed45a1f75c4ddd9d678
+    projectPath: Library\metadata\10\10b7c4a87c833ed45a1f75c4ddd9d678
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\10\10b7c4a87c833ed45a1f75c4ddd9d678.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\10\10b7c4a87c833ed45a1f75c4ddd9d678.info
+    projectPath: Library\metadata\10\10b7c4a87c833ed45a1f75c4ddd9d678.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1c\1cea83d4119b91f45822e012349bc6e0
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\1c\1cea83d4119b91f45822e012349bc6e0
+    projectPath: Library\metadata\1c\1cea83d4119b91f45822e012349bc6e0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1c\1cea83d4119b91f45822e012349bc6e0.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\1c\1cea83d4119b91f45822e012349bc6e0.info
+    projectPath: Library\metadata\1c\1cea83d4119b91f45822e012349bc6e0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21d8c279f579f32439711b2fa0e6bb93
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\21\21d8c279f579f32439711b2fa0e6bb93
+    projectPath: Library\metadata\21\21d8c279f579f32439711b2fa0e6bb93
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21d8c279f579f32439711b2fa0e6bb93.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\21\21d8c279f579f32439711b2fa0e6bb93.info
+    projectPath: Library\metadata\21\21d8c279f579f32439711b2fa0e6bb93.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\24\242468192ad75654ea73e2c293d74809
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\24\242468192ad75654ea73e2c293d74809
+    projectPath: Library\metadata\24\242468192ad75654ea73e2c293d74809
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\24\242468192ad75654ea73e2c293d74809.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\24\242468192ad75654ea73e2c293d74809.info
+    projectPath: Library\metadata\24\242468192ad75654ea73e2c293d74809.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2c\2c5e3133dde4c2445b7ed522f3f6a951
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\2c\2c5e3133dde4c2445b7ed522f3f6a951
+    projectPath: Library\metadata\2c\2c5e3133dde4c2445b7ed522f3f6a951
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2c\2c5e3133dde4c2445b7ed522f3f6a951.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\2c\2c5e3133dde4c2445b7ed522f3f6a951.info
+    projectPath: Library\metadata\2c\2c5e3133dde4c2445b7ed522f3f6a951.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2c\2cec20ca994d60341bc4e607d15fbbac
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\2c\2cec20ca994d60341bc4e607d15fbbac
+    projectPath: Library\metadata\2c\2cec20ca994d60341bc4e607d15fbbac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2c\2cec20ca994d60341bc4e607d15fbbac.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\2c\2cec20ca994d60341bc4e607d15fbbac.info
+    projectPath: Library\metadata\2c\2cec20ca994d60341bc4e607d15fbbac.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\30\3040efafb00f5e44eaffc0401a5bd087
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\30\3040efafb00f5e44eaffc0401a5bd087
+    projectPath: Library\metadata\30\3040efafb00f5e44eaffc0401a5bd087
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\30\3040efafb00f5e44eaffc0401a5bd087.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\30\3040efafb00f5e44eaffc0401a5bd087.info
+    projectPath: Library\metadata\30\3040efafb00f5e44eaffc0401a5bd087.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\39\39603bb830658a44c86e2ec40ca589b9
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\39\39603bb830658a44c86e2ec40ca589b9
+    projectPath: Library\metadata\39\39603bb830658a44c86e2ec40ca589b9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\39\39603bb830658a44c86e2ec40ca589b9.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\39\39603bb830658a44c86e2ec40ca589b9.info
+    projectPath: Library\metadata\39\39603bb830658a44c86e2ec40ca589b9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\43\43707302cac0467408c31d82f4f531ee
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\43\43707302cac0467408c31d82f4f531ee
+    projectPath: Library\metadata\43\43707302cac0467408c31d82f4f531ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\43\43707302cac0467408c31d82f4f531ee.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\43\43707302cac0467408c31d82f4f531ee.info
+    projectPath: Library\metadata\43\43707302cac0467408c31d82f4f531ee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\51\51cfd6b1bcb71e54f9911ec6024f1239
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\51\51cfd6b1bcb71e54f9911ec6024f1239
+    projectPath: Library\metadata\51\51cfd6b1bcb71e54f9911ec6024f1239
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\51\51cfd6b1bcb71e54f9911ec6024f1239.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\51\51cfd6b1bcb71e54f9911ec6024f1239.info
+    projectPath: Library\metadata\51\51cfd6b1bcb71e54f9911ec6024f1239.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\59\59153e643324ecf42830568f6d3561fe
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\59\59153e643324ecf42830568f6d3561fe
+    projectPath: Library\metadata\59\59153e643324ecf42830568f6d3561fe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\59\59153e643324ecf42830568f6d3561fe.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\59\59153e643324ecf42830568f6d3561fe.info
+    projectPath: Library\metadata\59\59153e643324ecf42830568f6d3561fe.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6e\6e2ecbe055e863244acea5f2638dc798
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\6e\6e2ecbe055e863244acea5f2638dc798
+    projectPath: Library\metadata\6e\6e2ecbe055e863244acea5f2638dc798
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6e\6e2ecbe055e863244acea5f2638dc798.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\6e\6e2ecbe055e863244acea5f2638dc798.info
+    projectPath: Library\metadata\6e\6e2ecbe055e863244acea5f2638dc798.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6f\6f7b0aba1249e474c884aae2bb689b96
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\6f\6f7b0aba1249e474c884aae2bb689b96
+    projectPath: Library\metadata\6f\6f7b0aba1249e474c884aae2bb689b96
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6f\6f7b0aba1249e474c884aae2bb689b96.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\6f\6f7b0aba1249e474c884aae2bb689b96.info
+    projectPath: Library\metadata\6f\6f7b0aba1249e474c884aae2bb689b96.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7a\7a232bbe38102b748844f2039bc98916
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\7a\7a232bbe38102b748844f2039bc98916
+    projectPath: Library\metadata\7a\7a232bbe38102b748844f2039bc98916
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7a\7a232bbe38102b748844f2039bc98916.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\7a\7a232bbe38102b748844f2039bc98916.info
+    projectPath: Library\metadata\7a\7a232bbe38102b748844f2039bc98916.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\869245700810b344b9121f22d5ba6814
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\86\869245700810b344b9121f22d5ba6814
+    projectPath: Library\metadata\86\869245700810b344b9121f22d5ba6814
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\869245700810b344b9121f22d5ba6814.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\86\869245700810b344b9121f22d5ba6814.info
+    projectPath: Library\metadata\86\869245700810b344b9121f22d5ba6814.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\872476ea3dfcdd14aae43b7ddf6e61cd
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\87\872476ea3dfcdd14aae43b7ddf6e61cd
+    projectPath: Library\metadata\87\872476ea3dfcdd14aae43b7ddf6e61cd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\872476ea3dfcdd14aae43b7ddf6e61cd.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\87\872476ea3dfcdd14aae43b7ddf6e61cd.info
+    projectPath: Library\metadata\87\872476ea3dfcdd14aae43b7ddf6e61cd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\93\932302ac5696e7e49b9f7a31ad63ae2e
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\93\932302ac5696e7e49b9f7a31ad63ae2e
+    projectPath: Library\metadata\93\932302ac5696e7e49b9f7a31ad63ae2e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\93\932302ac5696e7e49b9f7a31ad63ae2e.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\93\932302ac5696e7e49b9f7a31ad63ae2e.info
+    projectPath: Library\metadata\93\932302ac5696e7e49b9f7a31ad63ae2e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\9e\9e729c4e88d91a54dad81210a5452aea
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\9e\9e729c4e88d91a54dad81210a5452aea
+    projectPath: Library\metadata\9e\9e729c4e88d91a54dad81210a5452aea
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\9e\9e729c4e88d91a54dad81210a5452aea.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\9e\9e729c4e88d91a54dad81210a5452aea.info
+    projectPath: Library\metadata\9e\9e729c4e88d91a54dad81210a5452aea.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a1c300bb65f41d145b5ee69e16370be4
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a1\a1c300bb65f41d145b5ee69e16370be4
+    projectPath: Library\metadata\a1\a1c300bb65f41d145b5ee69e16370be4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a1c300bb65f41d145b5ee69e16370be4.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a1\a1c300bb65f41d145b5ee69e16370be4.info
+    projectPath: Library\metadata\a1\a1c300bb65f41d145b5ee69e16370be4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a1d33783a7792e345baaf6f83c96458c
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a1\a1d33783a7792e345baaf6f83c96458c
+    projectPath: Library\metadata\a1\a1d33783a7792e345baaf6f83c96458c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a1d33783a7792e345baaf6f83c96458c.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a1\a1d33783a7792e345baaf6f83c96458c.info
+    projectPath: Library\metadata\a1\a1d33783a7792e345baaf6f83c96458c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a1d4d823483d24f439ecaad866e016f7
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a1\a1d4d823483d24f439ecaad866e016f7
+    projectPath: Library\metadata\a1\a1d4d823483d24f439ecaad866e016f7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a1d4d823483d24f439ecaad866e016f7.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a1\a1d4d823483d24f439ecaad866e016f7.info
+    projectPath: Library\metadata\a1\a1d4d823483d24f439ecaad866e016f7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a2\a2836417db084bb4e8c5e88e0514c483
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a2\a2836417db084bb4e8c5e88e0514c483
+    projectPath: Library\metadata\a2\a2836417db084bb4e8c5e88e0514c483
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a2\a2836417db084bb4e8c5e88e0514c483.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a2\a2836417db084bb4e8c5e88e0514c483.info
+    projectPath: Library\metadata\a2\a2836417db084bb4e8c5e88e0514c483.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a9\a9295e3155d096c4282e791c738faae3
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a9\a9295e3155d096c4282e791c738faae3
+    projectPath: Library\metadata\a9\a9295e3155d096c4282e791c738faae3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a9\a9295e3155d096c4282e791c738faae3.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\a9\a9295e3155d096c4282e791c738faae3.info
+    projectPath: Library\metadata\a9\a9295e3155d096c4282e791c738faae3.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ad\adb07397a70281640ad242ec5277723f
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\ad\adb07397a70281640ad242ec5277723f
+    projectPath: Library\metadata\ad\adb07397a70281640ad242ec5277723f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ad\adb07397a70281640ad242ec5277723f.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\ad\adb07397a70281640ad242ec5277723f.info
+    projectPath: Library\metadata\ad\adb07397a70281640ad242ec5277723f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b4\b415817f10be6cc459b8b34d82fc9ccb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\b4\b415817f10be6cc459b8b34d82fc9ccb
+    projectPath: Library\metadata\b4\b415817f10be6cc459b8b34d82fc9ccb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b4\b415817f10be6cc459b8b34d82fc9ccb.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\b4\b415817f10be6cc459b8b34d82fc9ccb.info
+    projectPath: Library\metadata\b4\b415817f10be6cc459b8b34d82fc9ccb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bf\bf300682622df55429f47fce40d5178e
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\bf\bf300682622df55429f47fce40d5178e
+    projectPath: Library\metadata\bf\bf300682622df55429f47fce40d5178e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bf\bf300682622df55429f47fce40d5178e.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\bf\bf300682622df55429f47fce40d5178e.info
+    projectPath: Library\metadata\bf\bf300682622df55429f47fce40d5178e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c0\c0e023263d2c1674094011fee7dd62d1
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\c0\c0e023263d2c1674094011fee7dd62d1
+    projectPath: Library\metadata\c0\c0e023263d2c1674094011fee7dd62d1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c0\c0e023263d2c1674094011fee7dd62d1.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\c0\c0e023263d2c1674094011fee7dd62d1.info
+    projectPath: Library\metadata\c0\c0e023263d2c1674094011fee7dd62d1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cb\cb10c6d9f541b9742be01af0e1b8d1a6
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\cb\cb10c6d9f541b9742be01af0e1b8d1a6
+    projectPath: Library\metadata\cb\cb10c6d9f541b9742be01af0e1b8d1a6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cb\cb10c6d9f541b9742be01af0e1b8d1a6.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\cb\cb10c6d9f541b9742be01af0e1b8d1a6.info
+    projectPath: Library\metadata\cb\cb10c6d9f541b9742be01af0e1b8d1a6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ce\ceba1189a797eed479ed3647524f4dc3
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\ce\ceba1189a797eed479ed3647524f4dc3
+    projectPath: Library\metadata\ce\ceba1189a797eed479ed3647524f4dc3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ce\ceba1189a797eed479ed3647524f4dc3.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\ce\ceba1189a797eed479ed3647524f4dc3.info
+    projectPath: Library\metadata\ce\ceba1189a797eed479ed3647524f4dc3.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cf\cf61a3090e622b64f8ebc523ff7b52fe
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\cf\cf61a3090e622b64f8ebc523ff7b52fe
+    projectPath: Library\metadata\cf\cf61a3090e622b64f8ebc523ff7b52fe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cf\cf61a3090e622b64f8ebc523ff7b52fe.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\cf\cf61a3090e622b64f8ebc523ff7b52fe.info
+    projectPath: Library\metadata\cf\cf61a3090e622b64f8ebc523ff7b52fe.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d1\d10acc4aab5006f499c7782f3f24c80a
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\d1\d10acc4aab5006f499c7782f3f24c80a
+    projectPath: Library\metadata\d1\d10acc4aab5006f499c7782f3f24c80a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d1\d10acc4aab5006f499c7782f3f24c80a.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\d1\d10acc4aab5006f499c7782f3f24c80a.info
+    projectPath: Library\metadata\d1\d10acc4aab5006f499c7782f3f24c80a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d600e54e8dc0cfe4cbe4e7b72ebff4de
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\d6\d600e54e8dc0cfe4cbe4e7b72ebff4de
+    projectPath: Library\metadata\d6\d600e54e8dc0cfe4cbe4e7b72ebff4de
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d600e54e8dc0cfe4cbe4e7b72ebff4de.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\d6\d600e54e8dc0cfe4cbe4e7b72ebff4de.info
+    projectPath: Library\metadata\d6\d600e54e8dc0cfe4cbe4e7b72ebff4de.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e0\e0d6325b9fc1e0245861ec87a0cd2113
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e0\e0d6325b9fc1e0245861ec87a0cd2113
+    projectPath: Library\metadata\e0\e0d6325b9fc1e0245861ec87a0cd2113
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e0\e0d6325b9fc1e0245861ec87a0cd2113.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e0\e0d6325b9fc1e0245861ec87a0cd2113.info
+    projectPath: Library\metadata\e0\e0d6325b9fc1e0245861ec87a0cd2113.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e1\e1db86fa2f5a2c94a84e96699e156dc3
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e1\e1db86fa2f5a2c94a84e96699e156dc3
+    projectPath: Library\metadata\e1\e1db86fa2f5a2c94a84e96699e156dc3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e1\e1db86fa2f5a2c94a84e96699e156dc3.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e1\e1db86fa2f5a2c94a84e96699e156dc3.info
+    projectPath: Library\metadata\e1\e1db86fa2f5a2c94a84e96699e156dc3.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e2\e2545e4815137f142b4dcf1e4ac1b3f7
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e2\e2545e4815137f142b4dcf1e4ac1b3f7
+    projectPath: Library\metadata\e2\e2545e4815137f142b4dcf1e4ac1b3f7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e2\e2545e4815137f142b4dcf1e4ac1b3f7.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e2\e2545e4815137f142b4dcf1e4ac1b3f7.info
+    projectPath: Library\metadata\e2\e2545e4815137f142b4dcf1e4ac1b3f7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e3\e300dddd8daa9a54f86b417de871237e
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e3\e300dddd8daa9a54f86b417de871237e
+    projectPath: Library\metadata\e3\e300dddd8daa9a54f86b417de871237e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e3\e300dddd8daa9a54f86b417de871237e.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e3\e300dddd8daa9a54f86b417de871237e.info
+    projectPath: Library\metadata\e3\e300dddd8daa9a54f86b417de871237e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e5\e5afb2a4887a2f940961693ab558c2f0
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e5\e5afb2a4887a2f940961693ab558c2f0
+    projectPath: Library\metadata\e5\e5afb2a4887a2f940961693ab558c2f0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e5\e5afb2a4887a2f940961693ab558c2f0.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e5\e5afb2a4887a2f940961693ab558c2f0.info
+    projectPath: Library\metadata\e5\e5afb2a4887a2f940961693ab558c2f0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e6\e6b09aadb6d05804782265a2baa688bd
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e6\e6b09aadb6d05804782265a2baa688bd
+    projectPath: Library\metadata\e6\e6b09aadb6d05804782265a2baa688bd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e6\e6b09aadb6d05804782265a2baa688bd.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\e6\e6b09aadb6d05804782265a2baa688bd.info
+    projectPath: Library\metadata\e6\e6b09aadb6d05804782265a2baa688bd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ef\ef66af25f656a104483869d4f0869477
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\ef\ef66af25f656a104483869d4f0869477
+    projectPath: Library\metadata\ef\ef66af25f656a104483869d4f0869477
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ef\ef66af25f656a104483869d4f0869477.info
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\metadata\ef\ef66af25f656a104483869d4f0869477.info
+    projectPath: Library\metadata\ef\ef66af25f656a104483869d4f0869477.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptMapper
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ShaderCache\1\1530c200ccbff8c417a1eef8e3386082.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\1\1530c200ccbff8c417a1eef8e3386082.bin
+    projectPath: Library\ShaderCache\1\1530c200ccbff8c417a1eef8e3386082.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\2\2613db8c5b3f2dde61f1836ca738acd5.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\2\2613db8c5b3f2dde61f1836ca738acd5.bin
+    projectPath: Library\ShaderCache\2\2613db8c5b3f2dde61f1836ca738acd5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\2\299b87d9151f8b0ba09f08980e2b4967.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\2\299b87d9151f8b0ba09f08980e2b4967.bin
+    projectPath: Library\ShaderCache\2\299b87d9151f8b0ba09f08980e2b4967.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\30dd4a35a18b3c2d9763b0233c3b88cc.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\3\30dd4a35a18b3c2d9763b0233c3b88cc.bin
+    projectPath: Library\ShaderCache\3\30dd4a35a18b3c2d9763b0233c3b88cc.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\31746d4006542e6438f3bf88430eb3ce.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\3\31746d4006542e6438f3bf88430eb3ce.bin
+    projectPath: Library\ShaderCache\3\31746d4006542e6438f3bf88430eb3ce.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\4366ce9d70b28c5598857f8c357b6d18.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\4\4366ce9d70b28c5598857f8c357b6d18.bin
+    projectPath: Library\ShaderCache\4\4366ce9d70b28c5598857f8c357b6d18.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\4828803ea8d70f083c51dec8fcca2c40.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\4\4828803ea8d70f083c51dec8fcca2c40.bin
+    projectPath: Library\ShaderCache\4\4828803ea8d70f083c51dec8fcca2c40.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\4c4d1092307038d72a94a94012d48b89.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\4\4c4d1092307038d72a94a94012d48b89.bin
+    projectPath: Library\ShaderCache\4\4c4d1092307038d72a94a94012d48b89.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\5\55ee6e7bbfcf7bda898bd6aa447dbb92.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\5\55ee6e7bbfcf7bda898bd6aa447dbb92.bin
+    projectPath: Library\ShaderCache\5\55ee6e7bbfcf7bda898bd6aa447dbb92.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\66beafa7b8317a6c6fd50fad8028d454.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\6\66beafa7b8317a6c6fd50fad8028d454.bin
+    projectPath: Library\ShaderCache\6\66beafa7b8317a6c6fd50fad8028d454.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\673bebc64b6ea50af38ce552a8ff17b8.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\6\673bebc64b6ea50af38ce552a8ff17b8.bin
+    projectPath: Library\ShaderCache\6\673bebc64b6ea50af38ce552a8ff17b8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6c64b0a2ffcf3c05b650d28864f294f2.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\6\6c64b0a2ffcf3c05b650d28864f294f2.bin
+    projectPath: Library\ShaderCache\6\6c64b0a2ffcf3c05b650d28864f294f2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6ed2c0dea8a9d9354db0f221d034daf7.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\6\6ed2c0dea8a9d9354db0f221d034daf7.bin
+    projectPath: Library\ShaderCache\6\6ed2c0dea8a9d9354db0f221d034daf7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6f328c757019a91903cfae9f638ad3f6.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\6\6f328c757019a91903cfae9f638ad3f6.bin
+    projectPath: Library\ShaderCache\6\6f328c757019a91903cfae9f638ad3f6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\73834086fc4e9b3033ad30159b140a62.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\7\73834086fc4e9b3033ad30159b140a62.bin
+    projectPath: Library\ShaderCache\7\73834086fc4e9b3033ad30159b140a62.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\7829a277149bdce5bab4b1e032213db9.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\7\7829a277149bdce5bab4b1e032213db9.bin
+    projectPath: Library\ShaderCache\7\7829a277149bdce5bab4b1e032213db9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\78eb4ba1b0867e765b51c00ca8171ffd.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\7\78eb4ba1b0867e765b51c00ca8171ffd.bin
+    projectPath: Library\ShaderCache\7\78eb4ba1b0867e765b51c00ca8171ffd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\7b450aa6e20e2f1e3a3bba0dc95b4d06.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\7\7b450aa6e20e2f1e3a3bba0dc95b4d06.bin
+    projectPath: Library\ShaderCache\7\7b450aa6e20e2f1e3a3bba0dc95b4d06.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\7b83292b86484b76816c822437c58fba.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\7\7b83292b86484b76816c822437c58fba.bin
+    projectPath: Library\ShaderCache\7\7b83292b86484b76816c822437c58fba.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\7c0327b0ca1536bbbc37e1e4d72a9e95.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\7\7c0327b0ca1536bbbc37e1e4d72a9e95.bin
+    projectPath: Library\ShaderCache\7\7c0327b0ca1536bbbc37e1e4d72a9e95.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\80237c29881b1e35d41257adb24a630b.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\8\80237c29881b1e35d41257adb24a630b.bin
+    projectPath: Library\ShaderCache\8\80237c29881b1e35d41257adb24a630b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8466d7f99226a154e65c512714bf2012.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\8\8466d7f99226a154e65c512714bf2012.bin
+    projectPath: Library\ShaderCache\8\8466d7f99226a154e65c512714bf2012.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8760d91d410fa2c9ce78a2600d306ae2.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\8\8760d91d410fa2c9ce78a2600d306ae2.bin
+    projectPath: Library\ShaderCache\8\8760d91d410fa2c9ce78a2600d306ae2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8954d6415974260457e3bbce81663222.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\8\8954d6415974260457e3bbce81663222.bin
+    projectPath: Library\ShaderCache\8\8954d6415974260457e3bbce81663222.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8975e334084ef4de4ca67aacff1b212d.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\8\8975e334084ef4de4ca67aacff1b212d.bin
+    projectPath: Library\ShaderCache\8\8975e334084ef4de4ca67aacff1b212d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8d474157e63d418384a999426088fe05.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\8\8d474157e63d418384a999426088fe05.bin
+    projectPath: Library\ShaderCache\8\8d474157e63d418384a999426088fe05.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\99a8c83e4502e4d7bd79df3eea2afbf6.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\9\99a8c83e4502e4d7bd79df3eea2afbf6.bin
+    projectPath: Library\ShaderCache\9\99a8c83e4502e4d7bd79df3eea2afbf6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\a5d7e65ee7c999d120565514116aad35.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\a\a5d7e65ee7c999d120565514116aad35.bin
+    projectPath: Library\ShaderCache\a\a5d7e65ee7c999d120565514116aad35.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\a923b77a53592af4dad95ab448eef8ee.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\a\a923b77a53592af4dad95ab448eef8ee.bin
+    projectPath: Library\ShaderCache\a\a923b77a53592af4dad95ab448eef8ee.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\ac289fdc1a5ad2efb06d995dc60607d2.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\a\ac289fdc1a5ad2efb06d995dc60607d2.bin
+    projectPath: Library\ShaderCache\a\ac289fdc1a5ad2efb06d995dc60607d2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\afcbc878a60c25696b98cf6c7a58ffc4.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\a\afcbc878a60c25696b98cf6c7a58ffc4.bin
+    projectPath: Library\ShaderCache\a\afcbc878a60c25696b98cf6c7a58ffc4.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b31678552f2bddde60d01654a806f6e0.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\b\b31678552f2bddde60d01654a806f6e0.bin
+    projectPath: Library\ShaderCache\b\b31678552f2bddde60d01654a806f6e0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b33d2d08945b178e7207e33733767598.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\b\b33d2d08945b178e7207e33733767598.bin
+    projectPath: Library\ShaderCache\b\b33d2d08945b178e7207e33733767598.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b8dfab945a2ec1856cf7d3ffa1a948a1.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\b\b8dfab945a2ec1856cf7d3ffa1a948a1.bin
+    projectPath: Library\ShaderCache\b\b8dfab945a2ec1856cf7d3ffa1a948a1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\baf087fc21d918a565e73efac50ed439.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\b\baf087fc21d918a565e73efac50ed439.bin
+    projectPath: Library\ShaderCache\b\baf087fc21d918a565e73efac50ed439.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\bc96d4fc0a5d70267ce6f372f9d2eb76.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\b\bc96d4fc0a5d70267ce6f372f9d2eb76.bin
+    projectPath: Library\ShaderCache\b\bc96d4fc0a5d70267ce6f372f9d2eb76.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c12d97bbe6b2dc8e3627f9fbaf1d945d.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\c\c12d97bbe6b2dc8e3627f9fbaf1d945d.bin
+    projectPath: Library\ShaderCache\c\c12d97bbe6b2dc8e3627f9fbaf1d945d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c1ccd7cd588d8ff2fc27fafcd63a41e1.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\c\c1ccd7cd588d8ff2fc27fafcd63a41e1.bin
+    projectPath: Library\ShaderCache\c\c1ccd7cd588d8ff2fc27fafcd63a41e1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c20b0b8a4f411ac1d52d123c8240e35b.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\c\c20b0b8a4f411ac1d52d123c8240e35b.bin
+    projectPath: Library\ShaderCache\c\c20b0b8a4f411ac1d52d123c8240e35b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c5ea177fe7e5840e7b54f2f3567eee36.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\c\c5ea177fe7e5840e7b54f2f3567eee36.bin
+    projectPath: Library\ShaderCache\c\c5ea177fe7e5840e7b54f2f3567eee36.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c8c26736223108afbe1fee0c9f1fa0e5.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\c\c8c26736223108afbe1fee0c9f1fa0e5.bin
+    projectPath: Library\ShaderCache\c\c8c26736223108afbe1fee0c9f1fa0e5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\caf6caf0fbb42b69e246ef5d2906b3c9.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\c\caf6caf0fbb42b69e246ef5d2906b3c9.bin
+    projectPath: Library\ShaderCache\c\caf6caf0fbb42b69e246ef5d2906b3c9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d0b3ea7154b6424f8922e8a7e362adb7.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\d\d0b3ea7154b6424f8922e8a7e362adb7.bin
+    projectPath: Library\ShaderCache\d\d0b3ea7154b6424f8922e8a7e362adb7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d87baf7b1fec7e580de1cc26e0a85e74.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\d\d87baf7b1fec7e580de1cc26e0a85e74.bin
+    projectPath: Library\ShaderCache\d\d87baf7b1fec7e580de1cc26e0a85e74.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\ddd0f7420267f2bc9d2c3d67c1065b44.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\d\ddd0f7420267f2bc9d2c3d67c1065b44.bin
+    projectPath: Library\ShaderCache\d\ddd0f7420267f2bc9d2c3d67c1065b44.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\e3fe1503f0367286bf8798a5068d96bf.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\e\e3fe1503f0367286bf8798a5068d96bf.bin
+    projectPath: Library\ShaderCache\e\e3fe1503f0367286bf8798a5068d96bf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\ed37d4c9e1290a0eb2f1464843476dff.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\e\ed37d4c9e1290a0eb2f1464843476dff.bin
+    projectPath: Library\ShaderCache\e\ed37d4c9e1290a0eb2f1464843476dff.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\edf5dd44d85a4201b6dac8fc3a9063f3.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\e\edf5dd44d85a4201b6dac8fc3a9063f3.bin
+    projectPath: Library\ShaderCache\e\edf5dd44d85a4201b6dac8fc3a9063f3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\ef5ba5864d94747091006936fc880ade.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\e\ef5ba5864d94747091006936fc880ade.bin
+    projectPath: Library\ShaderCache\e\ef5ba5864d94747091006936fc880ade.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f1a56858966485734e9b59c435323969.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\f\f1a56858966485734e9b59c435323969.bin
+    projectPath: Library\ShaderCache\f\f1a56858966485734e9b59c435323969.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f1ea44b2e8aafe5aa2737ad7a5200299.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\f\f1ea44b2e8aafe5aa2737ad7a5200299.bin
+    projectPath: Library\ShaderCache\f\f1ea44b2e8aafe5aa2737ad7a5200299.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f53a68e314e3d4cca757fb0e93701f07.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\f\f53a68e314e3d4cca757fb0e93701f07.bin
+    projectPath: Library\ShaderCache\f\f53a68e314e3d4cca757fb0e93701f07.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\fa1a56a9fffb264dc63ca61a78f9bc71.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\f\fa1a56a9fffb264dc63ca61a78f9bc71.bin
+    projectPath: Library\ShaderCache\f\fa1a56a9fffb264dc63ca61a78f9bc71.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\fdcb24a1e9845b915e482841be3796b9.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\f\fdcb24a1e9845b915e482841be3796b9.bin
+    projectPath: Library\ShaderCache\f\fdcb24a1e9845b915e482841be3796b9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\ff1073c99117e0140a4d4f2ab14486cd.bin
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\ShaderCache\f\ff1073c99117e0140a4d4f2ab14486cd.bin
+    projectPath: Library\ShaderCache\f\ff1073c99117e0140a4d4f2ab14486cd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\SpriteAtlasDatabase.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\SpriteAtlasDatabase.asset
+    projectPath: Library\SpriteAtlasDatabase.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\22c283-mainStage.json
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\StateCache\Hierarchy\22c283-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\22c283-mainStage.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\f818ee-mainStage.json
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\StateCache\SceneView\f818ee-mainStage.json
+    projectPath: Library\StateCache\SceneView\f818ee-mainStage.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\TilemapEditorUserSettings.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\Library\TilemapEditorUserSettings.asset
+    projectPath: Library\TilemapEditorUserSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Logs\Packages-Update.log
+    fullPath: E:\Windows\FCUP\CG\Final Project\Logs\Packages-Update.log
+    projectPath: Logs\Packages-Update.log
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Packages\manifest.json
+    fullPath: E:\Windows\FCUP\CG\Final Project\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\InputManager.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: E:\Windows\FCUP\CG\Final Project\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\1f068db059d5cf0261a3b566803bc6c6.bakert
+    fullPath: E:\Windows\FCUP\CG\Final Project\Temp\ProcessJobs\1f068db059d5cf0261a3b566803bc6c6.bakert
+    projectPath: Temp\ProcessJobs\1f068db059d5cf0261a3b566803bc6c6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: E:\Windows\FCUP\CG\Final Project\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
